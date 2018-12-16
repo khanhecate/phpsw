@@ -10,3 +10,6 @@ just chmod 755 and chown 755 this tool and do
 thank you :)
 made by hecate
 fb: facebook.com/kh4n4f1
+
+for tutorial bahsa indonesia bisa buka link dibawah ini : 
+#
