@@ -25,7 +25,7 @@ else exit
 fi
 
 if ! [ -x "$(command -v $menu)" ];then
-	if (whiptail --title "[ warning ] " --yesno --yes-button "Install" "$menu not installed , You want to install it ? " 10 60);then
+	if (whiptail --title "[ warning ] " --yesno --yes-button "Install" --no-buutton "exit" "$menu not installed , You want to install it ? " 10 60);then
 		apt -y install $menu
 	else exit 
 	fi
