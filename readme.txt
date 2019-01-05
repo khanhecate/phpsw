@@ -1,4 +1,4 @@
-PHPSW is tools for change php version , (apache2) 
+PHPSW is tools for change php version , (apache2 and Ubuntu) 
 this possible for you to change another version of apache on yor computer
 don't wory when you don't have another php version , this tool will add ppa php for you
 then you can installl another php version
